@@ -5,7 +5,6 @@ Proyecto Java para acceder al servidor mychatlet desde Android.
 
 **Pantallas de Captura**
 
-![Charla 1](https://dl.dropboxusercontent.com/u/12074021/mychatlet-android/001.png)
 ![Charla 2](https://dl.dropboxusercontent.com/u/12074021/mychatlet-android/002.png)
 
 
