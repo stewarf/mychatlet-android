@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyChatLet</string>
+    <string name="title_activity_main_1">Acceso</string>
+    <string name="title_activity_chat_1">Chat</string>
+
+    <string name="text_hint_hostname_1">Hostname</string>
+    <string name="text_hint_puerto_1">Puerto</string>
+    <string name="text_button_aceptar_1">Aceptar</string>
+
+    <string name="text_chat_prompt_1">Escribe algo...</string>
+    <string name="botton_chat_send_1">Enviar</string>
+</resources>
